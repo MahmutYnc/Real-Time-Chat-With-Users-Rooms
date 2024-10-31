@@ -4,11 +4,11 @@
   "description": "Real Time Chat with Users and Rooms",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.21.1",
     "moment": "^2.24.0",
     "node": "^14.0.0",
     "nodemon": "^2.0.3",
-    "socket.io": "^2.5.1"
+    "socket.io": "^4.8.1"
   },
   "devDependencies": {},
   "scripts": {
